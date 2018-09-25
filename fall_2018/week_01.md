@@ -1,19 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> Last week I was assigned to the Framework Expert Team.  
+> I also began learning how to use git.
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> This week I am going to begin researching and learning NodeJS 
+> by doing online tutorials. 
 
 > Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+> Right now the only thing blocking me is the fact that I still 
+> don't really know how to use git.  I will continue trying to learn.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
