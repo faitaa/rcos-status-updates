@@ -1,22 +1,19 @@
 ## Last Week's Accomplishments
 
-> Last week I was assigned to the Framework Expert Team  
-> I also began learning how to use git
+> I used git for the first time!
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> This week I am going to begin researching and learning NodeJS by doing online tutorials. 
+> This week, I'm going to start learning more about NodeJS.
 
 > Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
 
-> Right now the only thing blocking me is the fact that I still 
-> don't really know how to use git
-> I will continue trying to learn
+> The only trouble that I'm having so far is that I don't really understand git sitll.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
