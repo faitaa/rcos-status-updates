@@ -1,13 +1,15 @@
 ## Last Week's Accomplishments
 
-> I used git for the first time!
+> I used git for the first time! I committed my weekly update.  
+> I also started looking into Node.js and have decided that I will probably need to gain a better understanding of JavaScript before continuing with anything related to node.
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> This week, I'm going to start learning more about NodeJS.
+> This week, I'm going to start looking more into JavaScript.  I will look up online tutorials and take notes in the next couple of weeks. 
+> I think that will make it much easier to understand Node.
 
 > Examples: New Bugs to be fixed, Design choices
 
